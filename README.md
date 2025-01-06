@@ -36,3 +36,12 @@ Presented creatively with an HTML-based design for compatibility across Streamli
 Interactive Visualizations:
 Select between revenue trends, message activity trends, and retention funnel views.
 View bar charts, line charts, and funnel charts dynamically based on user preferences.
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/9f37a9ce-9281-4061-96c0-34655f240285" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/f83bd1d1-98aa-4dbb-aede-b438564dbd2f" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/5c81acbc-2ce9-47a0-9141-88a9832ad07b" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/87b01d4a-636a-4d0a-bf06-80ade48cd718" />
+
+
+
+
