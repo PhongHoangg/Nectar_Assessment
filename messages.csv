@@ -1,0 +1,292 @@
+id,conversation_id,message_text,sent_at
+1,101,"Hi, I need help!",2024-09-15 09:00:00
+2,101,"Sure, how can I assist you?",2024-09-15 09:05:00
+3,101,"I can't find my order details.",2024-09-15 09:10:00
+4,101,"Let me check your order info.",2024-09-15 09:15:00
+5,101,"Thanks! That solved the issue.",2024-09-15 09:20:00
+6,102,"Thanks, looks good!",2024-10-10 13:30:00
+7,102,"Great, I appreciate the quick fix.",2024-10-10 13:35:00
+8,103,"Great service!",2024-10-18 16:00:00
+9,103,"Thanks, I'll recommend this to others.",2024-10-18 16:05:00
+10,104,"Can I get a refund?",2024-11-05 10:15:00
+11,104,"Let me check the details for you.",2024-11-05 10:18:00
+12,104,"It looks like you're eligible for a refund. I'll process it now.",2024-11-05 10:20:00
+13,105,"Where's my order?",2024-11-10 15:00:00
+14,105,"I'm checking the status now.",2024-11-10 15:05:00
+15,105,"It should be arriving soon. Sorry for the delay!",2024-11-10 15:10:00
+16,106,"Great experience!",2024-09-22 11:00:00
+17,106,"Happy to hear that, thank you!",2024-09-22 11:05:00
+18,107,"Could be better.",2024-09-05 08:15:00
+19,107,"What happened with my order?",2024-09-05 08:20:00
+20,107,"Sorry for the inconvenience, let me look into it.",2024-09-05 08:25:00
+21,108,"How do I track my order?",2024-09-28 17:00:00
+22,108,"You can track it via the tracking link we sent via email.",2024-09-28 17:05:00
+23,109,"Thanks for the update!",2024-11-28 14:30:00
+24,109,"You're welcome! Let me know if you need further assistance.",2024-11-28 14:35:00
+25,110,"Need more info.",2024-11-10 13:00:00
+26,110,"Sure, what do you need?",2024-11-10 13:05:00
+27,111,"I think I was charged incorrectly.",2024-09-20 11:00:00
+28,111,"Let's review your billing details.",2024-09-20 11:05:00
+29,111,"It looks like the charge was correct, but I can send you a receipt.",2024-09-20 11:10:00
+30,112,"Can you confirm my order status?",2024-09-30 09:00:00
+31,112,"Checking now, please give me a moment.",2024-09-30 09:02:00
+32,112,"Your order is on its way and should arrive within 3 days.",2024-09-30 09:05:00
+33,113,"I'm looking for a specific product.",2024-10-02 12:00:00
+34,113,"Can you tell me more about your requirements?",2024-10-02 12:05:00
+35,113,"I'm looking for a laptop with at least 16GB RAM and a fast processor.",2024-10-02 12:10:00
+36,113,"I have a laptop in mind. Would you like me to recommend it?",2024-10-02 12:15:00
+37,114,"I need help with my account login.",2024-10-15 10:00:00
+38,114,"Please verify your email address, and I'll help you reset your password.",2024-10-15 10:02:00
+39,114,"Done. Can you reset it now?",2024-10-15 10:05:00
+40,115,"I missed the delivery. Can you reschedule it?",2024-10-25 14:00:00
+41,115,"I'll arrange for the delivery to be rescheduled.",2024-10-25 14:05:00
+42,116,"I'm not happy with the product I received.",2024-11-05 09:00:00
+43,116,"I'm sorry to hear that. Can you provide more details?",2024-11-05 09:05:00
+44,116,"The color is not as expected.",2024-11-05 09:10:00
+45,116,"We can process an exchange for you. Would you like to proceed?",2024-11-05 09:15:00
+46,117,"How do I cancel my order?",2024-11-12 13:00:00
+47,117,"You can cancel your order within 24 hours of purchase.",2024-11-12 13:05:00
+48,118,"I need to update my shipping address.",2024-11-15 16:00:00
+49,118,"I can help you with that. Please provide the new address.",2024-11-15 16:05:00
+50,119,"How do I track my return?",2024-11-20 11:30:00
+51,119,"You can track the return status through your account page.",2024-11-20 11:35:00
+52,120,"Can I change my order after it's been placed?",2024-11-22 14:00:00
+53,120,"We allow changes to orders within the first hour. Can you provide more details?",2024-11-22 14:05:00
+54,120,"I need to change the quantity.",2024-11-22 14:10:00
+55,121,"I'm facing issues with payment.",2024-12-01 09:00:00
+56,121,"Let me check your payment history.",2024-12-01 09:05:00
+57,121,"It seems the payment was declined. Can you retry?",2024-12-01 09:10:00
+58,122,"Do you offer international shipping?",2024-12-03 11:00:00
+59,122,"Yes, we do. Where would you like to ship?",2024-12-03 11:05:00
+60,123,"Can I add an item to my existing order?",2024-12-05 14:30:00
+61,124,"I received a damaged product.",2024-12-07 10:00:00
+62,124,"I'm sorry to hear that. Can you send a photo of the damage?",2024-12-07 10:05:00
+63,124,"Here's the photo. What should I do next?",2024-12-07 10:10:00
+64,124,"We'll process a return and send you a replacement.",2024-12-07 10:15:00
+65,125,"Can I get an estimated delivery time?",2024-12-10 11:00:00
+66,125,"Your order is expected to arrive within 3-5 business days.",2024-12-10 11:05:00
+67,126,"I need help with tracking a refund.",2024-12-12 14:00:00
+68,126,"I'll look into your refund status and update you shortly.",2024-12-12 14:05:00
+69,126,"It seems the refund was processed yesterday. Check your account.",2024-12-12 14:10:00
+70,127,"I want to change the shipping method.",2024-12-15 16:30:00
+71,127,"Can you provide the new shipping method you prefer?",2024-12-15 16:35:00
+72,127,"I'd like to upgrade to express shipping.",2024-12-15 16:40:00
+73,127,"I'll update your order with express shipping now.",2024-12-15 16:45:00
+74,128,"Is it possible to add a gift message to my order?",2024-12-17 09:00:00
+75,128,"Yes, I can add a gift message. Please provide the message you'd like to include.",2024-12-17 09:05:00
+76,128,"Here’s the message: 'Happy Birthday, enjoy your gift!'",2024-12-17 09:10:00
+77,128,"Got it! I'll make sure the message is included in the order.",2024-12-17 09:15:00
+78,129,"Can I change my payment method?",2024-12-18 10:30:00
+79,129,"You can change your payment method before the order is shipped. Would you like to do that now?",2024-12-18 10:35:00
+80,129,"Yes, I’d like to update it with a new credit card.",2024-12-18 10:40:00
+81,129,"Please provide the new card details, and I’ll update it for you.",2024-12-18 10:45:00
+82,130,"Do you offer a warranty on products?",2024-12-20 13:00:00
+83,130,"Yes, we offer a 1-year warranty on most products. Would you like more details?",2024-12-20 13:05:00
+84,130,"Yes, please. What does the warranty cover?",2024-12-20 13:10:00
+85,130,"The warranty covers manufacturing defects. Accidental damage is not covered.",2024-12-20 13:15:00
+86,131,"I’d like to return an item.",2024-12-22 10:00:00
+87,131,"Please provide the reason for the return.",2024-12-22 10:05:00
+88,131,"It doesn’t fit as expected.",2024-12-22 10:10:00
+89,131,"I’ll send you a return label. Please send it back within 14 days.",2024-12-22 10:15:00
+90,132,"Can you help me with a product recommendation?",2024-12-25 09:00:00
+91,132,"Sure! What type of product are you looking for?",2024-12-25 09:05:00
+92,132,"I'm looking for a wireless Bluetooth speaker.",2024-12-25 09:10:00
+93,132,"I recommend the XYZ Bluetooth Speaker. It has great sound quality and battery life.",2024-12-25 09:15:00
+94,133,"Can I track my order without logging in?",2024-12-26 11:00:00
+95,133,"Yes, you can use the tracking number sent to your email to track the order.",2024-12-26 11:05:00
+96,134,"I need an invoice for my recent purchase.",2024-12-28 13:00:00
+97,134,"I’ll email you the invoice shortly.",2024-12-28 13:05:00
+98,134,"Please check your inbox for the invoice email.",2024-12-28 13:10:00
+99,135,"Can I cancel an order that’s already shipped?",2024-12-30 16:00:00
+100,135,"Once an order is shipped, it can’t be canceled, but you can return it after receiving it.",2024-12-30 16:05:00
+101,136,"Is there a way to upgrade my order to faster shipping?",2024-12-31 14:00:00
+102,136,"Unfortunately, we cannot upgrade shipping after the order has been placed. Would you like to order again?",2024-12-31 14:05:00
+103,136,"I’ll just wait for this one to arrive. Thank you for your help!",2024-12-31 14:10:00
+104,137,"How can I change the delivery address for my order?",2024-12-31 15:00:00
+105,137,"Please provide your new delivery address, and I'll assist you with the change.",2024-12-31 15:05:00
+106,137,"Here's the new address: 123 New St, Suite 456, City, State, ZIP.",2024-12-31 15:10:00
+107,137,"I've updated your order with the new delivery address. Thanks for the info!",2024-12-31 15:15:00
+108,138,"Do you offer gift wrapping?",2024-12-31 16:00:00
+109,138,"Yes, we do offer gift wrapping. Would you like to add it to your order?",2024-12-31 16:05:00
+110,138,"Yes, please add gift wrapping to my order.",2024-12-31 16:10:00
+111,138,"Your order will be gift-wrapped and ready for delivery. Thank you!",2024-12-31 16:15:00
+112,139,"I’d like to cancel an order I just placed.",2024-12-31 17:00:00
+113,139,"Unfortunately, your order has already been processed, but you can return it once it arrives.",2024-12-31 17:05:00
+114,139,"Okay, I’ll return it when it arrives. Thanks for letting me know.",2024-12-31 17:10:00
+115,140,"Can I get a discount on my next purchase?",2024-12-31 18:00:00
+116,140,"We occasionally offer promotions to our loyal customers. Make sure you're subscribed to our newsletter!",2024-12-31 18:05:00
+117,140,"Thanks! I’ll sign up for the newsletter.",2024-12-31 18:10:00
+118,141,"Is there a way to add a promo code to my current order?",2024-12-31 19:00:00
+119,141,"If the order hasn’t been shipped yet, I can help you apply a promo code. Can you provide it?",2024-12-31 19:05:00
+120,141,"Here’s the code: SAVE20.",2024-12-31 19:10:00
+121,141,"I’ve applied the promo code to your order. You’ve saved 20%. Enjoy!",2024-12-31 19:15:00
+122,142,"Do you ship internationally?",2024-12-31 20:00:00
+123,142,"Yes, we do offer international shipping. Which country are you located in?",2024-12-31 20:05:00
+124,142,"I’m located in Australia. Do you ship there?",2024-12-31 20:10:00
+125,142,"Yes, we ship to Australia! You can select your country during checkout.",2024-12-31 20:15:00
+126,143,"My order was delayed. Can you help?",2024-12-31 21:00:00
+127,143,"I apologize for the delay. Let me check the status for you.",2024-12-31 21:05:00
+128,143,"It looks like there was a slight delay at customs. Your order will be arriving soon.",2024-12-31 21:10:00
+129,143,"Thank you for the update. I’ll keep an eye out for it!",2024-12-31 21:15:00
+130,144,"I can’t find my order number. Can you help me locate it?",2025-01-01 09:00:00
+131,144,"Sure! Can you provide your email address or phone number used for the order?",2025-01-01 09:05:00
+132,144,"Here’s my email: user@example.com.",2025-01-01 09:10:00
+133,144,"I found your order. It’s currently being processed. Thank you for your patience!",2025-01-01 09:15:00
+134,145,"How do I return a damaged item?",2025-01-02 10:00:00
+135,145,"I’m really sorry about that. Please provide a photo of the damage, and we’ll guide you through the return process.",2025-01-02 10:05:00
+136,145,"Here’s the photo of the damage. What do I do next?",2025-01-02 10:10:00
+137,145,"We’ll send you a return label right away. Please send the item back to us.",2025-01-02 10:15:00
+138,146,"Can I change my shipping address after the order has shipped?",2025-01-02 12:00:00
+139,146,"Once an order has shipped, we cannot change the address. You can contact the carrier to reroute it.",2025-01-02 12:05:00
+140,146,"I’ll reach out to the carrier. Thanks for your help!",2025-01-02 12:10:00
+141,147,"How do I use my reward points?",2025-01-03 14:00:00
+142,147,"You can apply your reward points during checkout. Just select the option to redeem them.",2025-01-03 14:05:00
+143,147,"I’ve redeemed my points. Thanks for the info!",2025-01-03 14:10:00
+144,148,"Do you accept PayPal?",2025-01-04 09:00:00
+145,148,"Yes, we accept PayPal as a payment method during checkout.",2025-01-04 09:05:00
+146,148,"Great! I’ll use PayPal for my next order.",2025-01-04 09:10:00
+147,149,"Can I get an update on my order status?",2025-01-04 10:00:00
+148,149,"Sure, let me check the status of your order for you.",2025-01-04 10:05:00
+149,149,"Your order is currently in transit and should arrive in the next 2-3 days.",2025-01-04 10:10:00
+150,149,"Thanks for the update! I’m looking forward to it.",2025-01-04 10:15:00
+151,150,"Is there any way to expedite a return?",2025-01-05 13:00:00
+152,150,"I can help with expediting the return. Please send the item back as soon as possible, and we’ll process it quickly.",2025-01-05 13:05:00
+153,150,"I’ve sent the item back. Please let me know once the return is processed.",2025-01-05 13:10:00
+154,150,"Your return is in process, and you’ll receive a refund shortly.",2025-01-05 13:15:00
+155,151,"Can I get a status update on my refund?",2025-01-06 11:00:00
+156,151,"I’ll check your refund status right now.",2025-01-06 11:05:00
+157,151,"Your refund was processed last week. Please check your account for the refund.",2025-01-06 11:10:00
+158,151,"Thanks for confirming! I’ll check my account again.",2025-01-06 11:15:00
+159,152,"I need a specific color for an item. Do you have it in stock?",2025-01-07 10:00:00
+160,152,"Please tell me which color you’re looking for, and I’ll check availability for you.",2025-01-07 10:05:00
+161,152,"I’m looking for the red version of the XYZ product.",2025-01-07 10:10:00
+162,152,"I see that the red version is in stock! You can place your order now.",2025-01-07 10:15:00
+163,153,"Can I change my order after it's been placed?",2025-01-08 12:00:00
+164,153,"Once an order is placed, it cannot be modified. You can cancel and place a new order if needed.",2025-01-08 12:05:00
+165,152,"I forgot to add an item to my cart. Can I still add it?",2025-01-08 09:00:00
+166,152,"You can add the item to your cart now before proceeding to checkout.",2025-01-08 09:05:00
+167,153,"Do you offer express shipping?",2025-01-09 10:00:00
+168,153,"Yes, we do offer express shipping options during checkout.",2025-01-09 10:05:00
+169,154,"How can I track my package?",2025-01-09 12:00:00
+170,154,"Once your package ships, you’ll receive a tracking number by email. You can track it from there.",2025-01-09 12:05:00
+171,155,"Can I change the payment method on my order?",2025-01-10 14:00:00
+172,155,"Unfortunately, we can’t change the payment method once an order is placed. You may cancel the order and place a new one if needed.",2025-01-10 14:05:00
+173,156,"How do I apply for a refund?",2025-01-11 13:00:00
+174,156,"Please contact our support team via email with your order number and the reason for the refund request.",2025-01-11 13:05:00
+175,157,"Do you have any Black Friday deals?",2025-01-12 15:00:00
+176,157,"Yes, we have special Black Friday discounts! Keep an eye on our website for the upcoming offers.",2025-01-12 15:05:00
+177,158,"Can I gift a subscription?",2025-01-13 11:00:00
+178,158,"Yes, we offer gift subscriptions. You can select that option during checkout.",2025-01-13 11:05:00
+179,159,"What’s your return policy?",2025-01-14 16:00:00
+180,159,"Our return policy allows returns within 30 days of purchase for a full refund or exchange, as long as the item is in unused condition.",2025-01-14 16:05:00
+181,160,"I can’t find my order confirmation email.",2025-01-15 12:00:00
+182,160,"Check your spam or junk folder. If you still can’t find it, please let us know, and we’ll resend it.",2025-01-15 12:05:00
+183,161,"Do you have a student discount?",2025-01-16 10:00:00
+184,161,"Yes, we offer a student discount. Please provide your student ID during checkout.",2025-01-16 10:05:00
+185,162,"Can I split the payment for my order?",2025-01-17 11:00:00
+186,162,"Currently, we only accept one payment method per order, but you can use gift cards or store credit.",2025-01-17 11:05:00
+187,163,"How can I contact customer support?",2025-01-18 09:00:00
+188,163,"You can reach our customer support team via email, phone, or live chat on our website.",2025-01-18 09:05:00
+189,164,"Are there any discounts for bulk orders?",2025-01-19 12:00:00
+190,164,"Yes, we offer discounts for bulk orders. Please contact our sales team for more details.",2025-01-19 12:05:00
+191,165,"I received the wrong item. What should I do?",2025-01-20 14:00:00
+192,165,"I’m so sorry about that! Please send us a photo of the incorrect item, and we’ll send the correct one to you right away.",2025-01-20 14:05:00
+193,166,"How do I check if my order has shipped?",2025-01-21 10:00:00
+194,166,"You should receive an email with tracking information once your order has shipped. You can also check the status in your account.",2025-01-21 10:05:00
+195,167,"Can I change the billing address on my order?",2025-01-22 11:00:00
+196,167,"Unfortunately, we cannot change the billing address once the order has been processed. You may need to cancel the order and place a new one.",2025-01-22 11:05:00
+197,168,"Do you offer a loyalty program?",2025-01-23 09:00:00
+198,168,"Yes, we have a loyalty program where you can earn points for every purchase. Sign up on our website!",2025-01-23 09:05:00
+199,169,"Can I modify my order after it’s been placed?",2025-01-24 10:00:00
+200,169,"Once an order is placed, we’re unable to modify it. However, you can cancel it and place a new one if needed.",2025-01-24 10:05:00
+201,170,"How do I subscribe to your newsletter?",2025-01-25 13:00:00
+202,170,"You can subscribe to our newsletter by entering your email at the bottom of our website.",2025-01-25 13:05:00
+203,171,"Do you offer a price match guarantee?",2025-01-26 14:00:00
+204,171,"Yes, we offer a price match guarantee. If you find a lower price for the same item, let us know, and we’ll match it.",2025-01-26 14:05:00
+205,172,"Is there a minimum order for free shipping?",2025-01-27 12:00:00
+206,172,"Yes, we offer free shipping on orders over $50.",2025-01-27 12:05:00
+207,173,"How do I cancel an order?",2025-01-28 15:00:00
+208,173,"You can cancel your order within 24 hours of placing it through your account settings, or contact support.",2025-01-28 15:05:00
+209,174,"Can I change my delivery date?",2025-01-29 10:00:00
+210,174,"Unfortunately, delivery dates cannot be changed after an order is placed. You can contact the carrier for potential rerouting.",2025-01-29 10:05:00
+211,175,"How do I redeem my gift card?",2025-01-30 14:00:00
+212,175,"You can redeem your gift card during checkout by entering the code in the payment section.",2025-01-30 14:05:00
+213,176,"Can I pre-order items?",2025-01-31 11:00:00
+214,176,"Yes, you can pre-order items directly from our website. They will be shipped as soon as they become available.",2025-01-31 11:05:00
+215,177,"Can I cancel a subscription?",2025-02-01 12:00:00
+216,177,"Yes, you can cancel a subscription at any time through your account settings or by contacting support.",2025-02-01 12:05:00
+217,178,"Do you offer contactless payment?",2025-02-02 14:00:00
+218,178,"Yes, we accept contactless payment options like Apple Pay, Google Pay, and contactless cards.",2025-02-02 14:05:00
+219,179,"Is there a warranty on your products?",2025-02-03 10:00:00
+220,179,"Yes, most of our products come with a 1-year warranty. Check the product page for specific details.",2025-02-03 10:05:00
+221,180,"What payment methods do you accept?",2025-02-04 11:00:00
+222,181,"Do you offer a free trial?",2025-02-05 13:00:00
+223,182,"Can I track my order through the app?",2025-02-06 14:00:00
+224,183,"How long does it take for a refund to process?",2025-02-07 10:00:00
+225,184,"Are your products eco-friendly?",2025-02-08 09:00:00
+226,185,"Do you offer international shipping?",2025-02-09 15:00:00
+227,186,"Can I change the shipping address after placing the order?",2025-02-10 13:00:00
+228,187,"What should I do if I received a damaged item?",2025-02-11 14:00:00
+229,188,"Can I save items in my cart for later?",2025-02-12 10:00:00
+230,189,"How can I contact your support team?",2025-02-13 11:00:00
+231,190,"Do you have any loyalty rewards?",2025-02-14 16:00:00
+232,191,"What do I do if my package is delayed?",2025-02-15 12:00:00
+233,192,"Can I get a price adjustment?",2025-02-16 10:00:00
+234,193,"How can I update my billing address?",2025-02-17 09:00:00
+235,194,"What’s your cancellation policy?",2025-02-18 14:00:00
+236,195,"Can I upgrade my shipping method after ordering?",2025-02-19 13:00:00
+237,196,"Do you offer a satisfaction guarantee?",2025-02-20 11:00:00
+238,197,"How do I use a discount code?",2025-02-21 15:00:00
+239,198,"Can I buy gift cards?",2025-02-22 12:00:00
+240,199,"How do I unsubscribe from your emails?",2025-02-23 14:00:00
+241,200,"Is there a way to contact the seller directly?",2025-02-24 13:00:00
+242,201,"Can I request a custom order?",2025-02-25 10:00:00
+243,202,"Do you offer same-day delivery?",2025-02-26 16:00:00
+244,203,"How do I track the status of my return?",2025-02-27 12:00:00
+245,204,"Are your products available in stores?",2025-02-28 09:00:00
+246,205,"How do I know if an item is in stock?",2025-03-01 10:00:00
+247,206,"Can I request a refund for digital products?",2025-03-02 14:00:00
+248,207,"Do you offer bulk discounts?",2025-03-03 13:00:00
+249,208,"Is there an additional charge for expedited shipping?",2025-03-04 12:00:00
+250,209,"How can I sign up for your newsletter?",2025-03-05 10:00:00
+251,210,"What is the return process?",2025-03-06 16:00:00
+252,211,"Can I change the delivery date of my order?",2025-03-07 13:00:00
+253,212,"What should I do if I receive an incorrect item?",2025-03-08 10:00:00
+254,213,"Do you have any seasonal promotions?",2025-03-09 15:00:00
+255,214,"Can I send an item to a different address?",2025-03-10 14:00:00
+256,215,"How long does shipping take?",2025-03-11 13:00:00
+257,216,"Do you offer customer reviews for products?",2025-03-12 09:00:00
+258,217,"How can I cancel a subscription?",2025-03-13 16:00:00
+259,218,"Do you provide tracking updates?",2025-03-14 11:00:00
+260,219,"Can I make changes to my order after it’s shipped?",2025-03-15 13:00:00
+261,220,"Do you offer free returns?",2025-03-16 12:00:00
+262,221,"How do I apply a promo code?",2025-03-17 14:00:00
+263,222,"Do you provide gift wrapping?",2025-03-18 16:00:00
+264,223,"How do I reset my account password?",2025-03-19 10:00:00
+265,224,"Can I use multiple discount codes?",2025-03-20 14:00:00
+266,225,"Do you offer a price match policy?",2025-03-21 13:00:00
+267,226,"Can I track my package from the app?",2025-03-22 09:00:00
+268,227,"Do you provide an order status update?",2025-03-23 10:00:00
+269,228,"Can I change my shipping method?",2025-03-24 11:00:00
+270,229,"How do I redeem loyalty points?",2025-03-25 16:00:00
+271,230,"Do you offer discounts for first-time customers?",2025-03-26 13:00:00
+272,231,"How do I cancel an automatic renewal?",2025-03-27 12:00:00
+273,232,"Can I purchase products without an account?",2025-03-28 09:00:00
+274,233,"How do I track a return?",2025-03-29 14:00:00
+275,234,"What do I do if my package is lost?",2025-03-30 11:00:00
+276,235,"Can I purchase items on behalf of someone else?",2025-03-31 10:00:00
+277,236,"Is there a minimum order amount for free shipping?",2025-04-01 13:00:00
+278,237,"Can I get a full refund for my subscription?",2025-04-02 14:00:00
+279,238,"Do you have an app for shopping?",2025-04-03 16:00:00
+280,239,"Can I get a discount for referring friends?",2025-04-04 12:00:00
+281,240,"How can I track my order from your site?",2025-04-05 10:00:00
+282,241,"Do you ship internationally?",2025-04-06 13:00:00
+283,242,"Can I leave a product review?",2025-04-07 14:00:00
+284,243,"How do I apply for a refund?",2025-04-08 12:00:00
+285,244,"Can I use a gift card and a discount code together?",2025-04-09 10:00:00
+286,245,"How can I check the availability of a product?",2025-04-10 13:00:00
+287,246,"Can I request a product recommendation?",2025-04-11 14:00:00
+288,247,"Do you have free samples?",2025-04-12 15:00:00
+289,248,"What’s the best way to contact customer support?",2025-04-13 09:00:00
+290,249,"Can I change my order after it’s been processed?",2025-04-14 13:00:00
+291,250,"Do you offer extended warranty?",2025-04-15 14:00:00
